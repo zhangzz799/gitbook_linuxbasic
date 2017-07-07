@@ -16,17 +16,17 @@ Samba是在Linux和UNIX系统上实现SMB协议的一个免费软件，能够完
 
 在home路径下操作：
 
-![](../Images/Snip20161218_2.png)
+![](/linux/media/14934226357577/Snip20161218_2.png)
 
 修改其权限：
 
-![](../Images/Snip20161218_4.png)
+![](/linux/media/14934226357577/Snip20161218_4.png)
 
 修改samba的配置文件：
 
-![](../Images/Snip20161218_5.png)
+![](/linux/media/14934226357577/Snip20161218_5.png)
 
-![](../Images/Snip20161219_121.png)
+![](/linux/media/14934226357577/Snip20161219_121.png)
 
 ### 3.2 创建samba账户 {#32-创建samba账户}
 
