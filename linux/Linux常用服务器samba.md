@@ -30,9 +30,7 @@ Samba是在Linux和UNIX系统上实现SMB协议的一个免费软件，能够完
 
 ### 3.2 创建samba账户 {#32-创建samba账户}
 
-![](../Images/Snip20161218_7.png)
-
-![](../Images/Snip20161218_17.png)
+![](/linux/media/14934226357577/Snip20161218_7.png)![](/linux/media/14934226357577/Snip20161218_17.png)
 
 ### 4 重启samba {#4-重启samba}
 
@@ -40,23 +38,23 @@ Samba是在Linux和UNIX系统上实现SMB协议的一个免费软件，能够完
 
 重启命令如下：
 
-![](../Images/Snip20161218_20.png)
+![](/linux/media/14934226357577/Snip20161218_20.png)
 
 ## 5. 访问共享文件 {#5-访问共享文件}
 
 ### 5.1 mac下访问方式 {#51-mac下访问方式}
 
-![](../Images/Snip20161218_11.png)
+![](/linux/media/14934226357577/Snip20161218_11.png)
 
-![](../Images/Snip20161218_13.png)
+![](/linux/media/14934226357577/Snip20161218_13.png)
 
-![](../Images/Snip20161218_14.png)
+![](/linux/media/14934226357577/Snip20161218_14.png)
 
-![](../Images/Snip20161218_16.png)
+![](/linux/media/14934226357577/Snip20161218_16.png)
 
 ### 5.2 windows下访问方式 {#52-windows下访问方式}
 
-![](../Images/Snip20161218_18.png)
+![](/linux/media/14934226357577/Snip20161218_18.png)
 
-![](../Images/Snip20161218_19.png)：
+![](/linux/media/14934226357577/Snip20161218_19.png)
 
