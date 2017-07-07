@@ -1,4 +1,4 @@
-# Summary
+[](linux/编辑器之神-vim.md)# Summary
 
 * [Python 基础课程安排](README.md)
   * [操作系统（科普章节）](linux/操作系统（科普章节）.md)
@@ -13,4 +13,4 @@
   * [系统信息相关命令](linux/系统信息相关命令.md)
   * [其他命令](linux/其他命令.md)
   * [Linux常用服务器samba](linux/Linux常用服务器samba.md)
-
+  * [编辑器之神-vim](linux/编辑器之神-vim.md)
