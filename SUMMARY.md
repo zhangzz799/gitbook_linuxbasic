@@ -12,6 +12,6 @@
   * [用户权限相关命令](linux/用户权限相关命令.md)
   * [系统信息相关命令](linux/系统信息相关命令.md)
   * [其他命令](linux/其他命令.md)
-  * [Linux常用服务器samba \(了解\)](linux/Linux常用服务器samba.md)
-  * [编辑器之神-vim \(拓展\)](linux/编辑器之神-vim.md)
+  * [Linux常用服务器samba (了解)](linux/Linux常用服务器samba.md)
+  * [编辑器之神-vim (拓展)](linux/编辑器之神-vim.md)
 
