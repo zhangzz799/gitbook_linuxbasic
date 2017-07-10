@@ -13,6 +13,7 @@
   * [系统信息相关命令](linux/系统信息相关命令.md)
   * [其他命令](linux/其他命令.md)
   * [编辑器之神-vim (拓展)](linux/编辑器之神-vim.md)
-  * [Linux常用服务器samba (了解)](linux/Linux常用服务器samba.md)
   * [Linux常用服务器ftp (了解)](linux/Linux常用服务器ftp.md)
+  * [Linux常用服务器samba (了解)](linux/Linux常用服务器samba.md)
+
 

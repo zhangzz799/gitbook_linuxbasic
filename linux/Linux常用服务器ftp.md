@@ -1,6 +1,6 @@
-Linux常用服务器构建-ftp服务器
+# Linux常用服务器构建-ftp服务器
 
-ftp服务器
+## ftp服务器
 
 FTP 是File Transfer Protocol（文件传输协议）的英文简称，而中文简称为“文传协议”。
 
@@ -77,6 +77,6 @@ put somefile
 get somefile
 ```
 
-图形界面的ftp客户端(filezilla)
+## 图形界面的ftp客户端(filezilla)
 
 ![](/linux/media/14934226357576/01-linux基础-114.png)
