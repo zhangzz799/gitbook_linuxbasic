@@ -14,5 +14,5 @@
   * [其他命令](linux/其他命令.md)
   * [编辑器之神-vim \(拓展\)](linux/编辑器之神-vim.md)
   * [Linux常用服务器samba \(了解\)](linux/Linux常用服务器samba.md)
-  * [Linux常用服务器ftp（了解）](linux/linuxchang-yong-fu-wu-qi-ftp-ff08-le-jie-ff09.md)
+  * [Linux常用服务器ftp \(了解\)](linux/Linux常用服务器ftp.md)
 
